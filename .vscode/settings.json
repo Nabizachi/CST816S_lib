@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ipp": "c",
+        "I2C.H": "cpp",
+        "gpio.h": "c",
+        "gpio_periph.h": "c"
+    }
+}
